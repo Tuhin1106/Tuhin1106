@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuhin Das</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on React Js<br>
+🔭 Currently working on React Js & React native⚛️<br>
 
 
 ## 🌐 Socials:
